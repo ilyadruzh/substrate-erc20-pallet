@@ -1,5 +1,5 @@
 # Substrate ERC20 Pallet
-![alt text](../substrate-erc20-pallet/info.jpeg)
+![alt text](info.jpeg)
 ## Getting Started
 
 ### Rust Setup
